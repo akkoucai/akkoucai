@@ -1,16 +1,80 @@
-### Hi there 👋
 
-<!--
-**akkoucai/akkoucai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aimeneakkouche/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mihtonmi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 👦 ABOUT ME
+
+I'm **mihtonmi** aka `Aimene Akkouche`. I'm a **Full Stack Blockchain Engineer** based in Grenoble, France.
+- :computer: I'm currently working on a DeFi protocol on Solana
+- :hourglass_flowing_sand:  Exploring Typescript & DaisyUI
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: CTO & Co-Founder of Cyberse & Lead Smart contract engineer at Underground Society Labs
+- :trophy: 3rd prize of "Tezos X HEC Paris Hackathon"
+- :zap: Fun fact: I started coding when I was 12 years old<br>
+
+---
+
+#### ⚔ SKILLS & TOOLS:
+
+<p>
+
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/solidity.svg"></code>
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"></code>
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
+</p>
+
+---
+
+#### 🎯 GOALS IN 2022:
+
+- Master Solana
+- Master Typescript
+- Build an audience in Linked-in
+- Optimised Coding
+
+---
+
+#### ✅ RECENTLY COMPLETED PROJECTS:
+
+<p>Updating soon..</p>
+
+</p> -->
+
+---
+
+<h4>📀 SPOTIFY TRACK I'M LISTENING NOW: <img width="11px" src="https://media.istockphoto.com/vectors/headphones-vector-icon-on-transparent-background-headphones-icon-vector-id1013495712" /></h4>
+
+![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
+
+---
+
+#### 📈 MY GITHUB STATS
+
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=akkoucai&show_icons=true&theme=radical&count_private=true&show_icons=true" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=akkoucai&show_icons=true&theme=radical&count_private=true&show_icons=true" />
+
+<details>
+<summary>📌 View more stats ...</summary>
+<br>
+    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
