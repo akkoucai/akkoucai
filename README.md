@@ -27,7 +27,7 @@ I'm **mihtonmi** aka `Aimene Akkouche`. I'm a **Full Stack Blockchain Engineer**
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="4%" src="https://commons.wikimedia.org/wiki/File:Original_Ferris.svg"></code>
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -50,11 +50,11 @@ I'm **mihtonmi** aka `Aimene Akkouche`. I'm a **Full Stack Blockchain Engineer**
 
 ---
 
-#### ✅ RECENTLY COMPLETED PROJECTS:
+<!-- #### ✅ RECENTLY COMPLETED PROJECTS:
 
 <p>Updating soon..</p>
 
-</p> -->
+</p> --> 
 
 ---
 
