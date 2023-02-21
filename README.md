@@ -41,11 +41,11 @@ I'm **mihtonmi** aka `Aimene Akkouche`. I'm a **Full Stack Blockchain Engineer**
 
 ---
 
-#### 🎯 GOALS IN 2022:
+#### 🎯 GOALS IN 2023:
 
 - Master Solana
 - Master Typescript
-- Build an audience in Linked-in
+- Build an audience in Twitter
 - Optimised Coding
 
 ---
