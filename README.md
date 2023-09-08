@@ -11,7 +11,7 @@ I'm **mihtonmi** aka `Aimene Akkouche`. I'm a **Full Stack Blockchain Engineer**
 - :computer: I'm currently working on a DeFi protocol on Solana
 - :hourglass_flowing_sand:  Exploring Typescript & DaisyUI
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: CTO & Co-Founder of Cyberse & Lead Smart contract engineer at Underground Society Labs
+- :man_technologist: CTO & Co-Founder of Cyberse & Lead Smart contract engineer at SharkyFi
 - :trophy: 3rd prize of "Tezos X HEC Paris Hackathon"
 - :zap: Fun fact: I started coding when I was 12 years old<br>
 
